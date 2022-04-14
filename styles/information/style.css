@@ -1,0 +1,13 @@
+body {
+	color: white;
+}
+
+#compact {
+	font-size: 12px;
+	width: 260px;
+	backdrop-filter: blur(5px);
+}
+
+ul {
+	margin-top: 10px;
+}
